@@ -21,10 +21,4 @@ This repository is organized into several Colab notebooks, each serving a specif
 
 * **`Evaluation Buildtogether 2.ipynb`**: This notebook contains the evaluation specific to the **BuildTogether 2 contest**. It demonstrates how the AI evaluation framework can be applied and fine-tuned for a particular contest's dataset and criteria.
 
-* **`Discriminative Model.ipynb`**: This notebook includes the scripts for **training and evaluating the machine learning model** used in the discriminative assessment. This model is responsible for quantitatively ranking submissions and filtering out weaker entries.
-
-* **`AI Feedback/`**: This folder contains files related to **AI feedback**, likely holding data or scripts generated during the AI evaluation process, or used to fine-tune the AI models based on feedback.
-
-* **`LLM_Evaluation/`**: This folder stores the **last language model evaluations for all submissions**, providing a comprehensive record of the qualitative assessments performed by the generative AI model.
-
 ---
